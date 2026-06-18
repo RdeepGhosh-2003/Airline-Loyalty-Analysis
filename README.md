@@ -26,25 +26,25 @@ The project transforms raw customer and flight activity data into an interactive
 
 ## 📈 Executive Overview
 
-> Add Screenshot Here
+<img width="1532" height="862" alt="Overview" src="https://github.com/user-attachments/assets/e9bf001e-8e7d-475c-92e4-3e69b88252dc" />
 
 ---
 
 ## 👥 Customer Demographics Analysis
 
-> Add Screenshot Here
+<img width="1531" height="859" alt="Customer Demographics" src="https://github.com/user-attachments/assets/1ded8ef8-32cd-44c6-b1c8-7056a95b07e6" />
 
 ---
 
 ## ✈️ Flight Activity Analysis
 
-> Add Screenshot Here
+<img width="1533" height="861" alt="Flight Avtivity Analysis" src="https://github.com/user-attachments/assets/f52e89c4-4877-4355-8f8d-3f72622dc955" />
 
 ---
 
 ## 🔄 Retention & Churn Analysis
 
-> Add Screenshot Here
+<img width="1530" height="859" alt="Retention and Churn Analysis" src="https://github.com/user-attachments/assets/300b72ad-2c39-499b-a711-399c3c213344" />
 
 ---
 
